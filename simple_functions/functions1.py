@@ -6,4 +6,4 @@ def my_sum(iterable):
     tot = 0
     for i in iterable:
         tot += i
-    return 0
+    return tot
